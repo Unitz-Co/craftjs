@@ -2,6 +2,7 @@
   "name": "craftjs",
   "npmClient": "yarn",
   "private": true,
+  "version": "0.0.1",
   "author": "Prev Wong <prevwong@gmail.com>",
   "scripts": {
     "dev": "./scripts/dev.sh",
