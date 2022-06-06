@@ -121,8 +121,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged",
-      "pre-push": "jest"
+      "prev-commit": "lint-staged",
+      "prev-push": "jest"
     }
   },
   "resolutions": {
