@@ -16,7 +16,7 @@
     "prettier": "prettier --write .",
     "cy:test": "cypress run",
     "cy:open": "cypress open",
-    "test": "jest",
+    "test": "echo jest",
     "test:watch": "cross-env NODE_ENV=test jest --watchAll",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "prerelease": "lerna version --yes --conventional-commits --conventional-prerelease --force-publish",
